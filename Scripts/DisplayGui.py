@@ -356,7 +356,7 @@ class DisplayGui():
             else:
                 df = pd.DataFrame(['Please select the Option from Options Menu'])
         else:
-            df = pd.DataFrame(['No Data Found for the selected object'])
+            df = pd.DataFrame(['No Data Found / Functionality yet to be designed'])
 
         tbl = Table(DisplayGui.nse_data_display_lbl_frame, dataframe=df,
                     showtoolbar=True, showstatusbar=True, cols=6)
@@ -408,7 +408,7 @@ class DisplayGui():
                    'NSE PRE-MARKET DATA': get_nse_data,
                    'NSE LIVE DATA': get_nse_data,
                    'NSE HOLIDAYS': get_nse_data,
-                   # 'STOCK ANALYSIS': get_nse_data,
+                   'STOCK ANALYSIS': get_nse_data,
                    'EXIT APPLICATION': exit_application,
                    }
 
