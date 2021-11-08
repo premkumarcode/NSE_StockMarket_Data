@@ -45,4 +45,14 @@ Main Functionality
    
    
    
+   Application Screenshots:
+   
+   ![image](https://user-images.githubusercontent.com/89829307/140700128-1c3d2b7b-9354-43ad-b143-0a0f5c83aade.png)
+
+   ![image](https://user-images.githubusercontent.com/89829307/140700365-40e7a27c-5fb4-423e-a784-0df4a02b71aa.png)
+   
+   ![image](https://user-images.githubusercontent.com/89829307/140700456-261fed2c-306d-4565-bfec-fd2d2124f54f.png)
+
+
+   
      
