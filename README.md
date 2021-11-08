@@ -8,7 +8,7 @@ Run the main.py to initiate the application GUI and perform the below functional
 
 Main Functionality
 
-  Ticker                         : Displays the Live market status for Nifty, Currency  and Debt market
+  Ticker                         : Displays the Live market status for Nifty, Currency  and Debt market.Ticker values changes the color as the Nifty market from Postive to Negative
   
   Stock Details                  :  
          User can search the Equities symbol for NSE listed stocks which is autopopulated in real time as User enter the characters.On selecting the populated symbol,
