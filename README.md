@@ -1,6 +1,6 @@
 NSE Equities Stock market data Project provides the below functionality. 
 This project is developed as part of personal practice project to learn python functionality - API and Web scrapping. 
-The displayed data never to be used for any official trading purposes.
+
 Data is sourced from NSE website - https://www.nseindia.com/
 
 
